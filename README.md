@@ -4,7 +4,7 @@ Due to COVID, I have been sitting indoors, trying to distance myself from the hu
 
 For this reason, I have taken it upon myself to scrape the data regarding Completes from the Zumiez website i try and visualize their collection, to make it easier for other budding skateboarders to make a descision. This is an ongoing project and will be updated over the next few weeks.
 
-Part 1 - Webscrape Zumiez Complete Skateboards data - Complete
-Part 2 - Data Cleaning - Complete
-Part 3 - Create database in Postgres and evaluate data - In progress
-Part 4 - Crate dashboards that can be shared with the public - In queue
+* Part 1 - Webscrape Zumiez Complete Skateboards data - Complete
+* Part 2 - Data Cleaning - Complete
+* Part 3 - Create database in Postgres and evaluate data - In progress
+* Part 4 - Crate dashboards that can be shared with the public - In queue
