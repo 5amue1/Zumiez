@@ -1,5 +1,4 @@
-# Zumiez
-Visual Analytics of Zumiez Complete Skateboards Selection
+# Visual Analytics of Zumiez Complete Skateboards Selection
 
 Due to COVID, I have been sitting indoors, trying to distance myself from the hundreds of party goers in this little college town. To free my mind up a little, I took up skateboarding and have been trying to learn how to skateboard in the mornings, while everyone else is class. Choosing a skateboard to start off with was a challenge and the Complete Skatebords on Zumiez intrigued me (https://www.zumiez.com/skate/complete-skateboards.html). However, there was no way for me to compare the options available or see what the inventory looked like as a whole. 
 
